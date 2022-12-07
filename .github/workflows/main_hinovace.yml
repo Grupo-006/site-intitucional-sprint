@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'hinovace'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF9CB088FFF74A1DACD665FAC0053BC0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F78E972F6AD2446699DD83B1E699AC7D }}
           package: .
